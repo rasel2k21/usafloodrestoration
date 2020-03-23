@@ -25,7 +25,7 @@ header{
     background-position: 80% top;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 600px;
+    min-height: 650px;
 }
 .banner{
 	padding-top: 200px;
@@ -53,15 +53,15 @@ header{
 }
 .service-box-one{
 	padding: 30px;
-	height: 250px;
+	height:320px;
 }
 .service-box-two{
 	padding: 30px;
-	height: 250px;
+	height: 320px;
 }
 .service-box-three{
 	padding: 30px;
-	height: 250px;
+	height: 320px;
 }
 .service-content i {
     height: 50px;
