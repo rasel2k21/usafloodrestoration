@@ -9,12 +9,12 @@ header{
 }
 
 .header-left-content h1{
-    font-size: 20px;
+    font-size: 16px;
     margin-bottom: 20px;
 }
 .header-right-content{
 	position: relative;
-	right: 30%;
+	right: 25%;
 }
 
 /*Banner*/
