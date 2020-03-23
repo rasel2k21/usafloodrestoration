@@ -28,7 +28,7 @@ header{
     min-height: 650px;
 }
 .banner{
-	padding-top: 185px;
+	padding-top: 150px;
 }
 .banner h1{
 	color: #FFF;
@@ -48,6 +48,7 @@ header{
 
 /*Service Section*/
 .service-section{
+	margin-top:-40px;
 	margin-left: 0px;
 	margin-right: 0px;
 }
